@@ -1,0 +1,79 @@
+h1{
+    color:blue;
+    border-radius: 25px;
+    border-color: brown;
+    padding: 10%;
+    width: 20hw;
+    background-color: greenyellow;
+    text-align: center;
+   
+    
+
+
+}
+body {
+    color:gray;
+}
+
+p {
+   color: blue;
+  margin-left: 20px;
+  font-size: 20px;
+  text-align: left;
+  padding: 3%;
+
+  
+  
+}
+img {
+    height: 200px;
+    margin-left: 25%;
+    border-radius: 5%;
+    border-color: brown;
+    position:relative;
+    max-width:40hw ;
+    min-width: 40hw;
+    
+    
+}
+.grandes {
+    color:black ;
+    background-color: green;
+
+    
+}
+h2 {
+    color:red;
+}
+#food {
+    color:green;
+}
+li {
+    color:green;
+    font-size: 25px;
+    font-style: italic;
+    
+   
+}
+nav {
+transition: all 7s;
+}
+
+
+
+a {
+    text-decoration: none;
+
+}
+li {
+    display: inline;
+    margin-left: 10px;
+    
+    
+}
+ul {
+    text-align: end;
+}
+ {
+    color: red;
+}
